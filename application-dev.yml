@@ -1,3 +1,4 @@
 config: 
-  info: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-abcd
+  info: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-abcd *abc*
+  
 
